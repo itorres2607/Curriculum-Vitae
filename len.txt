@@ -1,0 +1,6 @@
+double := OrderedCollection new.
+#(1 2 3 4 5 6) do: [:e | double add: 2 * e].
+double -! an OrderedCollection(2 4 6 8 10 12)
+
+ordCol := OrderedCollection new.
+ordCol add: 'Seaside'; add: 'SqueakSource'; addFirst: 'Monticello'.

@@ -323,8 +323,14 @@ Desarrollar adaptadores IBM para que todos los sistemas del cliente puedan
 \shape smallcaps
 \noun on
 2010-2011
+\size scriptsize
+\noun default
+.
+
 \series default
 \shape default
+\size default
+\noun on
  
 \noun default
 
@@ -339,9 +345,9 @@ insert > formatting > protected space
 
  
 \series bold
+\noun on
 Righttek
 \series default
-\noun on
 
 \begin_inset space ~
 \end_inset
@@ -377,53 +383,40 @@ Desarrollar soluciones informáticas en proyectos para Claro en el área de
 \labelwidthstring 0000.0000.000
 \noindent
 
-\series bold
-\shape smallcaps
 \noun on
-2009-2010
-\shape default
-\noun default
- Sudamericana de Software
-\series default
-\noun on
-
-\begin_inset space ~
-\end_inset
-
-
+2009-2009
 \series bold
 \noun default
--
+ 
 \series default
-\noun on
-
-\begin_inset space ~
-\end_inset
-
-
-\series bold
-\noun default
-Ingeniero de Proyectos.
-\series default
-
+Various temporary work contracts:
 \begin_inset Newline newline
 \end_inset
 
+-- reorganising food aisles, 
+\begin_inset Newline newline
+\end_inset
 
-\shape italic
-Desarrollar soluciones informáticas en proyectos para Claro en el área de
- AIC Seguridad Informática, administrando la base de datos Oracle; utilizando
- herramientas como pl/sql developer, Oracle forms developer, netbeans, visual
- studio; y algunos lenguajes como pl/sql, java, visual basic,c.
+-- shelf-stocking and labelling , 
+\begin_inset Newline newline
+\end_inset
 
-\shape default
- 
+-- product packaging: cleanup, sterilisation, packing 
 \begin_inset Newline newline
 \end_inset
 
 
 \emph on
 
+\begin_inset Quotes eld
+\end_inset
+
+Tmp Inc.
+\begin_inset Quotes erd
+\end_inset
+
+ temporary work agency.
+ London, UK
 \begin_inset VSpace -4pt
 \end_inset
 

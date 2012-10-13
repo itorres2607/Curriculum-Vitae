@@ -12,7 +12,7 @@
 %\usepackage{fancyhdr}
 %\pagestyle{fancy}
 \headsep 10pt
-\chead{\small{\textrm{\textit{John Smith · \number\year~· Page \thepage}}}}
+\chead{\small{\textrm{\textit{Isaac Torres · \number\year~· Page \thepage}}}}
 \cfoot{}
 %\usepackage{mathpazo}
 %\usepackage[english]{babel}
@@ -87,7 +87,7 @@
 \size large
 \noun on
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Make sure to read all the Notes if you are lost regarding the structure
@@ -126,7 +126,7 @@ Make sure to read all the Notes if you are lost regarding the structure
 \begin_inset Newline newline
 \end_inset
 
-John SMITH
+ISAAC TORRES
 \series default
 \shape default
 
@@ -145,19 +145,19 @@ linebreak, Inset > Formatting > Justified line break
 \begin_inset Newline linebreak
 \end_inset
 
-13 Nowhere Str.
+Los Ríos 1909 y Ayacucho
 \begin_inset Newline linebreak
 \end_inset
 
-131313 Middletown
+Guayaquil
 \begin_inset Newline linebreak
 \end_inset
 
-+1 555 55 55
++593 042360494
 \begin_inset Newline linebreak
 \end_inset
 
-john.smith@smithter.js
+itorres@fiec.espol.edu.ec
 \end_layout
 
 \end_inset
@@ -178,7 +178,7 @@ john.smith@smithter.js
 \noindent
 \align right
 \begin_inset Graphics
-	filename desktop/SAM_1248.JPG
+	filename SAM_1248.JPG
 	lyxscale 40
 	width 2.5cm
 
@@ -208,15 +208,15 @@ john.smith@smithter.js
 
 \series default
 \shape default
-13 years old
+26 de Julio de 1988
 \begin_inset Newline linebreak
 \end_inset
 
-Born in Middletown,
+Guayaquil,
 \begin_inset Newline linebreak
 \end_inset
 
-Somecountry
+Ecuador
 \end_layout
 
 \end_inset
@@ -269,12 +269,31 @@ height "1pt"
 \labelwidthstring 0000.0000.000
 
 \series bold
-2009-2011
+2012
 \series default
  
 \series bold
-Some assistant somewhere.
- Tasks: some-ing something (I'm really out of ideas).
+Tecsinfo
+\series default
+\noun on
+
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+\noun default
+-
+\series default
+\noun on
+
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+\noun default
+Ingeniero de Proyectos.
 \begin_inset Note Note
 status collapsed
 
@@ -291,33 +310,21 @@ insert > formatting > ragged line break
 \end_inset
 
 
-\begin_inset Quotes eld
-\end_inset
-
-Some Inc.
-\begin_inset Quotes erd
-\end_inset
-
-, sales house of the Somewhere Group.
- Tokyo, Japan
+\series default
+Desarrollar adaptadores IBM para que todos los sistemas del cliente puedan
+ integrarse a los diferentes software IBM - Tivoli.
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring 0000.0000.000
 \noindent
 
+\series bold
+\shape smallcaps
 \noun on
-2008
-\begin_inset space ~
-\end_inset
-
-
-\size scriptsize
-\noun default
-June-Sept.
-
-\size default
-\noun on
+2010-2011
+\series default
+\shape default
  
 \noun default
 
@@ -330,36 +337,75 @@ insert > formatting > protected space
 
 \end_inset
 
-Internship with mostly administrative tasks.
- Three-month summertime work experience 
+ 
+\series bold
+Righttek
+\series default
+\noun on
+
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+\noun default
+-
+\series default
+\noun on
+
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+\noun default
+Ingeniero de Proyectos.
+\series default
+
 \begin_inset Newline newline
 \end_inset
 
 
-\emph on
-
-\begin_inset Quotes eld
-\end_inset
-
-Elsewhere
-\begin_inset Quotes erd
-\end_inset
-
- temporary work agency.
- Barcelona, Spain
+\shape italic
+Desarrollar soluciones informáticas en proyectos para Claro en el área de
+ AIC Seguridad Informática, administrando la base de datos Oracle; utilizando
+ herramientas como pl/sql developer, Oracle forms developer, netbeans, visual
+ studio; y algunos lenguajes como pl/sql, java, visual basic,c.
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring 0000.0000.000
 \noindent
 
+\series bold
+\shape smallcaps
 \noun on
-2006--2009
+2009-2010
+\shape default
+\noun default
+ Sudamericana de Software
+\series default
+\noun on
+
+\begin_inset space ~
+\end_inset
+
+
 \series bold
 \noun default
- 
+-
 \series default
-Various temporary work contracts:
+\noun on
+
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+\noun default
+Ingeniero de Proyectos.
+\series default
+
 \begin_inset Newline newline
 \end_inset
 

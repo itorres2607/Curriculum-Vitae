@@ -236,7 +236,7 @@ Ecuador
 \begin_layout Standard
 
 \series bold
-Work Experience
+Experiencia Laboral
 \series default
 
 \begin_inset VSpace -8pt
@@ -433,7 +433,7 @@ Desarrollar soluciones informáticas en proyectos para Claro en el área de
 \begin_layout Standard
 
 \series bold
-Academic Record
+Record Académico
 \series default
 
 \begin_inset VSpace -8pt
@@ -468,53 +468,67 @@ height "1pt"
 
 \series bold
 \noun on
-2007--2010
+2006-2012
 \series default
  
 \series bold
-Business School of Here, 
 \noun default
-first two years of a three-year professional programme
-\noun on
-, 
-\noun default
-followed by a one year training period.
- Specialisation in 
-\noun on
-Something Else
+Escuela Superior Politécnica del Litoral
 \series default
-\noun default
-.
  
 \begin_inset Newline newline
 \end_inset
 
 
-\series bold
-\emph on
-Here Business School
-\series default
-.
- 
-\series bold
-Pasadena, Texas, US
+\shape italic
+Estudiante de Ingeniería en Ciencias Computacionales
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring 0000.0000.000
 \noindent
 
+\series bold
 \noun on
-2005 
+2000-2006
+\series default
+ 
+\series bold
 \noun default
-High-school graduation, with honours
+Unidad Educativa Ezra Taft Benson
+\series default
+
 \begin_inset Newline newline
 \end_inset
 
 
 \emph on
-Elsehere Community School.
- Washington DC, US
+Bachiller Físico-Matemático
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 0000.0000.000
+\noindent
+
+\series bold
+\noun on
+2001-2004
+\series default
+ 
+\series bold
+\noun default
+Copol English Institute
+\series default
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\shape italic
+Certificado de nivel avanzado en el idioma inglés
+\shape default
+\emph on
+
 \begin_inset VSpace -4pt
 \end_inset
 
@@ -524,7 +538,7 @@ Elsehere Community School.
 \begin_layout Standard
 
 \series bold
-Computer Skills
+Cursos Realizados
 \series default
 
 \begin_inset VSpace -8pt
@@ -554,28 +568,74 @@ height "1pt"
 \end_layout
 
 \begin_layout Labeling
-\labelwidthstring 0000.0000.0000.0000.00
+\labelwidthstring 0000.0000.000
 \noindent
 
+\series bold
 \noun on
-Office
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-~
-\end_layout
-
-\end_inset
-
-suites:
+2007
+\series default
+ 
+\series bold
 \noun default
- Microsoft Office (Word, Excel, PowerPoint) and
+CCNA 1
+\series default
+ 
 \begin_inset Newline newline
 \end_inset
 
-OpenOffice.org (Writer, Calc, Impress)
+
+\shape italic
+Cisco - Espol
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 0000.0000.000
+\noindent
+
+\series bold
+\noun on
+2008
+\series default
+ 
+\series bold
+\noun default
+CCNA 2
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\shape italic
+Cisco - Espol
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 0000.0000.000
+\noindent
+
+\series bold
+\noun on
+2009
+\series default
+ 
+\series bold
+\noun default
+CCNA 3
+\series default
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\shape italic
+Cisco - Espol
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 0000.0000.0000.0000.00
+\noindent
 \begin_inset VSpace -4pt
 \end_inset
 
